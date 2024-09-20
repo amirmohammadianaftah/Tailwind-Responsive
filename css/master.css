@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: wosans;
+    src: url("../fonts/WorkSans-Regular.ttf") format("opentype");
+}
+
+@keyframes anime1 {
+    to {
+        border-radius: 77% 23% 75% 25% / 30% 68% 32% 70%;
+    }
+}
+
+@keyframes anime2 {
+    to {
+        border-radius: 33% 67% 25% 75% / 75% 41% 59% 25%;
+    }
+}
