@@ -4,10 +4,9 @@
 ![view final](https://user-images.githubusercontent.com/109727844/204102930-
 fac80657-4d16-4816-b476-a88e984abefe.jpg)
 - [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-ByReact/)
-- Developed by pouria farahani
-- Created - 2022-11-26
-- 🤖 Technologies Used - Html , css , js , React.js
-- Hooks Used : useState 
+- Developed by Amir Mohammadian
+- Created - 2024-09-20
+- 🤖 Technologies Used - Html , css , tailwind
 - 🤖🤖♀️ Role - Frontend
 - How to reach me : with my 
 [instagram](https://www.instagram.com/pouria_farahani_developer) and 
