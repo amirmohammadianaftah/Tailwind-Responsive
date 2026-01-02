@@ -26,4 +26,4 @@
 - 
 - ♀️ Role - Frontend
 - 
-- How to reach me 📞 : with my [instagram](https://www.instagram.com/amirmohammadian.web) and [linkedin](https://www.linkedin.com/in/amir-mohammadian-aa571b31b/)
+- How to reach me 📞 : with my [Instagram](https://www.instagram.com/amirmohammadian.web) and [Email](mailto:amir.mohammadian1999@gmail.com)
